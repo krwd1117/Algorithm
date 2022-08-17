@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		281184D028ACFFBC0044B7CE /* 8. 곳감(모래시계).swift in Sources */ = {isa = PBXBuildFile; fileRef = 281184CF28ACFFBC0044B7CE /* 8. 곳감(모래시계).swift */; };
+		281184D228AD04270044B7CE /* 9. 봉우리.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281184D128AD04270044B7CE /* 9. 봉우리.swift */; };
 		2863BACD28ABA96F00C6F414 /* 6. 격자판 최대 합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863BACC28ABA96F00C6F414 /* 6. 격자판 최대 합.swift */; };
 		2863BACF28ABB2BA00C6F414 /* 7. 사과나무.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863BACE28ABB2BA00C6F414 /* 7. 사과나무.swift */; };
 		2868D374289D34BC000B299C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2868D373289D34BC000B299C /* main.swift */; };
@@ -40,6 +42,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		281184CF28ACFFBC0044B7CE /* 8. 곳감(모래시계).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. 곳감(모래시계).swift"; sourceTree = "<group>"; };
+		281184D128AD04270044B7CE /* 9. 봉우리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. 봉우리.swift"; sourceTree = "<group>"; };
 		2863BACC28ABA96F00C6F414 /* 6. 격자판 최대 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. 격자판 최대 합.swift"; sourceTree = "<group>"; };
 		2863BACE28ABB2BA00C6F414 /* 7. 사과나무.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "7. 사과나무.swift"; sourceTree = "<group>"; };
 		2868D370289D34BC000B299C /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -126,6 +130,8 @@
 				2899B5B728AA0276000A0671 /* 5. 수의 합.swift */,
 				2863BACC28ABA96F00C6F414 /* 6. 격자판 최대 합.swift */,
 				2863BACE28ABB2BA00C6F414 /* 7. 사과나무.swift */,
+				281184CF28ACFFBC0044B7CE /* 8. 곳감(모래시계).swift */,
+				281184D128AD04270044B7CE /* 9. 봉우리.swift */,
 			);
 			name = "탐색and시뮬레이션";
 			path = "탐색and시뮬레이션";
@@ -198,8 +204,10 @@
 				2899B5B628A76C70000A0671 /* 4. 두 리스트 합치기.swift in Sources */,
 				2868D37D289D3A2A000B299C /* 1. K번째 약수.swift in Sources */,
 				2863BACD28ABA96F00C6F414 /* 6. 격자판 최대 합.swift in Sources */,
+				281184D228AD04270044B7CE /* 9. 봉우리.swift in Sources */,
 				28A113F1289FCF6200E194A9 /* 7. 소수의 개수 (에스토스테네스 체).swift in Sources */,
 				2868D380289D4E16000B299C /* 2. K번째 수.swift in Sources */,
+				281184D028ACFFBC0044B7CE /* 8. 곳감(모래시계).swift in Sources */,
 				28A113EF289FC96600E194A9 /* 6. 자릿수의 합.swift in Sources */,
 				2863BACF28ABB2BA00C6F414 /* 7. 사과나무.swift in Sources */,
 				2868D374289D34BC000B299C /* main.swift in Sources */,
